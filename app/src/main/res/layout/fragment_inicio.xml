@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <Button
+        android:id="@+id/btnAnimais"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Animais" />
+
+    <Button
+        android:id="@+id/btnConsultas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Consultas" />
+
+    <Button
+        android:id="@+id/btnVeterinarios"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Veterinários" />
+
+    <Button
+        android:id="@+id/btnTratamentos"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tratamentos" />
+
+</LinearLayout>

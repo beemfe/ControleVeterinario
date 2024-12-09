@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_inicio"
+        android:icon="@drawable/ic_home"
+        android:title="Início"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/menu_animais"
+        android:icon="@drawable/ic_animal"
+        android:title="Animais"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/menu_consultas"
+        android:icon="@drawable/ic_consulta"
+        android:title="Consultas"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/menu_veterinarios"
+        android:icon="@drawable/ic_veterinario"
+        android:title="Veterinários"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/menu_tratamentos"
+        android:icon="@drawable/ic_tratamento"
+        android:title="Tratamentos"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/menu_configuracoes"
+        android:icon="@drawable/ic_config"
+        android:title="Configurações"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_sobre"
+        android:icon="@drawable/ic_sobre"
+        android:title="Sobre"
+        app:showAsAction="never" />
+
+</menu>

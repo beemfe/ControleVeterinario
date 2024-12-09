@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Controle Veterinário</string>
+    <string name="welcome_message">Bem-vindo ao Controle Veterinário</string>
+    <string name="btn_animals">Gerenciar Animais</string>
+    <string name="btn_consultations">Gerenciar Consultas</string>
+    <string name="btn_veterinarians">Gerenciar Veterinários</string>
+    <string name="btn_treatments">Gerenciar Tratamentos</string>
+    <string name="animal_registration">Cadastro de Animal</string>
+    <string name="animal_name">Nome do Animal</string>
+    <string name="animal_species">Espécie</string>
+    <string name="animal_breed">Raça</string>
+    <string name="animal_age">Idade</string>
+    <string name="animal_gender">Sexo</string>
+    <string name="btn_save_animal">Salvar Animal</string>
+    <string name="consultation_registration">Registro de Consulta</string>
+    <string name="consultation_date">Data da Consulta</string>
+    <string name="consultation_reason">Motivo da Consulta</string>
+    <string name="consultation_diagnosis">Diagnóstico</string>
+    <string name="consultation_treatment">Tratamento</string>
+    <string name="btn_save_consultation">Salvar Consulta</string>
+    <string name="success_animal_saved">Animal salvo com sucesso</string>
+    <string name="success_consultation_saved">Consulta registrada com sucesso</string>
+    <string name="error_invalid_data">Dados inválidos. Por favor, verifique as informações.</string>
+    <string name="error_database">Erro ao acessar o banco de dados. Tente novamente.</string>
+    <string name="btn_list">Listar</string>
+    <string name="btn_edit">Editar</string>
+    <string name="btn_delete">Excluir</string>
+    <string name="confirmation_delete">Tem certeza que deseja excluir?</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+    <string name="loading">Carregando...</string>
+</resources>
